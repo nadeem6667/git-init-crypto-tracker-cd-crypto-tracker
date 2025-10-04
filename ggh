@@ -1,0 +1,4 @@
+# Fix API error handling
+echo "// TODO: Add error handling" >> script.js
+git add script.js
+git commit -m "Fix API call error handling"
