@@ -1,0 +1,4 @@
+# Add CSS styling
+echo "body { background-color: #111; color: white; }" > style.css
+git add style.css
+git commit -m "Add CSS styling for dashboard UI"
