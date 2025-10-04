@@ -1,0 +1,4 @@
+# Add search bar
+echo "<input placeholder='Search coin...'>" >> index.html
+git add index.html
+git commit -m "Add search bar for token filtering"
