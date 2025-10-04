@@ -1,0 +1,3 @@
+echo "# Crypto Tracker" > README.md
+git add README.md
+git commit -m "Initialize project structure"
