@@ -1,0 +1,2 @@
+# Refactor JS code
+git commit -am "Refactor fetchData() for better performance"
